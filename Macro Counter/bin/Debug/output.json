@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "FoodName": "Arla Protein",
+    "Calories": 254,
+    "Proteins": 25,
+    "PortionSize": 1.0,
+    "PicPath": "C:\\Users\\andr515i\\Desktop\\skole\\Skolepraktik\\Macro Counter\\Macro Counter\\Pictures\\Arla Choko protein.jpg"
+  },
+  {
+    "Id": 1,
+    "FoodName": "Xtra Ice Tea",
+    "Calories": 15,
+    "Proteins": 0,
+    "PortionSize": 1.0,
+    "PicPath": "C:\\Users\\andr515i\\Desktop\\skole\\Skolepraktik\\Macro Counter\\Macro Counter\\Pictures\\xtra ice tea.jpg"
+  },
+  {
+    "Id": 2,
+    "FoodName": "Scones med chokolade",
+    "Calories": 350,
+    "Proteins": 10,
+    "PortionSize": 1.0,
+    "PicPath": "C:\\Users\\andr515i\\Desktop\\skole\\Skolepraktik\\Macro Counter\\Macro Counter\\Pictures\\chokoladescones.jpg"
+  },
+  {
+    "Id": 2,
+    "FoodName": "Croissant med chokolade og nougat",
+    "Calories": 450,
+    "Proteins": 10,
+    "PortionSize": 1.0,
+    "PicPath": "C:\\Users\\andr515i\\Desktop\\skole\\Skolepraktik\\Macro Counter\\Macro Counter\\Pictures\\chokoCroisant.jpg"
+  },
+  {
+    "Id": 2,
+    "FoodName": "Tebolle",
+    "Calories": 315,
+    "Proteins": 10,
+    "PortionSize": 1.0,
+    "PicPath": "C:\\Users\\andr515i\\Desktop\\skole\\Skolepraktik\\Macro Counter\\Macro Counter\\Pictures\\tebolle.jpg"
+  },
+  {
+    "Id": 2,
+    "FoodName": "Durum Kylling",
+    "Calories": 1000,
+    "Proteins": 50,
+    "PortionSize": 1.0,
+    "PicPath": "C:\\Users\\andr515i\\Desktop\\skole\\Skolepraktik\\Macro Counter\\Macro Counter\\Pictures\\durum.jpg"
+  }
+]

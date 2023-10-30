@@ -1,0 +1,21 @@
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\bin\Debug\Macro Counter.exe.config
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\bin\Debug\Macro Counter.exe
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\bin\Debug\Macro Counter.pdb
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\Macro Counter.csproj.AssemblyReference.cache
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\Macro Counter.csproj.SuggestedBindingRedirects.cache
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\MainWindow.g.cs
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\App.g.cs
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\Macro Counter_MarkupCompile.cache
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\Macro Counter_MarkupCompile.lref
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\MainWindow.baml
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\Macro Counter.g.resources
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\Macro_Counter.Properties.Resources.resources
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\Macro Counter.csproj.GenerateResource.cache
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\Macro Counter.csproj.CoreCompileInputs.cache
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\Macro Counter.csproj.CopyComplete
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\Macro Counter.exe
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\Macro Counter.pdb
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\AddFoodWindow.g.cs
+C:\Users\andr515i\Desktop\skole\Skolepraktik\Macro Counter\Macro Counter\obj\Debug\AddFoodWindow.baml
